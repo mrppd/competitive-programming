@@ -20,6 +20,6 @@ while(tcase):
             min_f_a = f_a
             small_a = a
     
-    print(min_f_a)
+    print(small_a)
     
     tcase -= 1

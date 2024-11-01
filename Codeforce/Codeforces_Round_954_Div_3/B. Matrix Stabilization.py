@@ -65,3 +65,6 @@ while(tcase):
     
     tcase -= 1
     
+AA = [3, 1, 6, 9, 2, 10]
+
+B = [a*a for a in AA if a%3==0]
